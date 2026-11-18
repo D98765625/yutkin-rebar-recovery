@@ -5,9 +5,9 @@ Concept of a machine that breaks reinforced concrete with electrohydraulic shock
 Концепция установки, которая разрушает железобетон электрогидравлическим ударом в воде (эффект Юткина) и извлекает арматуру целой и ровной для повторного использования.
 
 ## Files
-- Yutkin_English.pdf — full description in English
-- Yutkin_Russian.pdf — полное описание на русском
-- Yutkin_drawing.pdf — drawing, scale 1:100
+- English.pdf — full description in English
+- Русский.pdf — полное описание на русском
+- Yutkin_top.png, Yutkin_side.png, Yutkin_end.png, Yutkin_3d.png — views of the machine
 - YutkinShir.FCStd — 3D model (FreeCAD)
 - Yutkin_model.step — 3D model (STEP, opens in most CAD programs)
 
